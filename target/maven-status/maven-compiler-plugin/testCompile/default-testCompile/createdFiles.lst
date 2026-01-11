@@ -1,0 +1,16 @@
+stepdefinitions\CompaniesSteps.class
+utils\TestContext.class
+stepdefinitions\AddressesSteps.class
+utils\ApiConfig.class
+stepdefinitions\CustomSteps.class
+stepdefinitions\CreditCardsSteps.class
+stepdefinitions\TextsSteps.class
+stepdefinitions\BaseSteps.class
+stepdefinitions\BooksSteps.class
+stepdefinitions\PlacesSteps.class
+stepdefinitions\ProductsSteps.class
+runners\TestRunner.class
+stepdefinitions\UsersSteps.class
+stepdefinitions\PersonsSteps.class
+stepdefinitions\ImagesSteps.class
+stepdefinitions\CommonSteps.class

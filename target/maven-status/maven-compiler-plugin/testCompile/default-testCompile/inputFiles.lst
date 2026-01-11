@@ -1,0 +1,16 @@
+C:\automation\api-automation\src\test\java\runners\TestRunner.java
+C:\automation\api-automation\src\test\java\stepdefinitions\AddressesSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\BaseSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\BooksSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\CommonSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\CompaniesSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\CreditCardsSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\CustomSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\ImagesSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\PersonsSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\PlacesSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\ProductsSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\TextsSteps.java
+C:\automation\api-automation\src\test\java\stepdefinitions\UsersSteps.java
+C:\automation\api-automation\src\test\java\utils\ApiConfig.java
+C:\automation\api-automation\src\test\java\utils\TestContext.java
