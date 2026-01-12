@@ -27,6 +27,8 @@ Make sure you have **Java 8+** and **Maven** installed.
 ```bash
 mvn clean test
 
+
+
 🧪 Test Case Table
 | TC ID | Feature / API    | Scenario Description                          | Endpoint                    | Test Type | Steps (Given / When / Then)                                            | Expected Result                                                                 |
 | ----- | ---------------- | --------------------------------------------- | --------------------------- | --------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
