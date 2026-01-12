@@ -4,6 +4,9 @@ import io.cucumber.java.en.*;
 import utils.TestContext;
 
 import static org.junit.Assert.*;
+import io.restassured.RestAssured;
+import io.restassured.filter.log.RequestLoggingFilter;
+import io.restassured.filter.log.ResponseLoggingFilter;
 
 public class CommonSteps extends BaseSteps {
 
@@ -13,7 +16,12 @@ public class CommonSteps extends BaseSteps {
 
     @Given("Faker API is ready")
     public void fakerApiReady() {
-        // baseURI already set in BaseSteps
+        RestAssured.baseURI = "https://fakerapi.it/api/v1";
+
+        // GLOBAL LOGGING (request & response)
+        RestAssured.filters(
+                new RequestLoggingFilter(),
+                new ResponseLoggingFilter());
     }
 
     @Then("response should contain {int} items")
